@@ -1,0 +1,1 @@
+{\n  "name": "sistema_pnae",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "electron .",\n    "build": "electron-builder"\n  },\n  "dependencies": {\n    "electron": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "sqlite3": "latest",\n    "pdfkit": "latest"\n  },\n  "devDependencies": {\n    "electron-builder": "latest"\n  }\n}
